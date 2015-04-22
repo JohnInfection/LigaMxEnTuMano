@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="1">
+
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:text="  No.  "
+            android:id="@+id/tvId"
+            android:background="#ffffffff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="28dp"
+            android:text="   JUGADOR"
+            android:id="@+id/tvNomJ"
+            android:background="#ffffffff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="26dp"
+            android:text="    EQUIPO"
+            android:id="@+id/tvEq"
+            android:background="#ffffffff" />
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="29dp"
+            android:text="    LOGO"
+            android:id="@+id/tvLogo"
+            android:background="#ffffffff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="28dp"
+            android:text="     GOLES   "
+            android:id="@+id/tvNoGol"
+            android:background="#ffffffff"
+            android:layout_weight="0.19" />
+
+</LinearLayout>

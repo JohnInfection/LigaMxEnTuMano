@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text=" No "
+            android:id="@+id/tvId"
+            android:background="#ffffffff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  LOCAL"
+            android:id="@+id/tvLocal"
+            android:background="#ffffffff" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  VISITANTE"
+            android:id="@+id/tvVisita"
+            android:background="#ffffffff" />
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="  LUGAR"
+            android:id="@+id/tvLugar"
+            android:background="#ffffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text=" HORARIO"
+        android:id="@+id/tvHr"
+        android:background="#ffffffff" />
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="  RESULTADO   "
+            android:id="@+id/tvNoGol"
+            android:background="#ffffffff" />
+
+    </LinearLayout>
+
+

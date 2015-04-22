@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LigaMxEnTuMano</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_activity_goleo">activityGoleo</string>
+    <string name="title_activity_goleo">Goleo</string>
+    <string name="title_activity_info_equipos">InfoEquipos</string>
+    <string name="title_activity_partidos_jornada">PartidosJornada</string>
+    <string name="title_activity_posiciones">Posiciones</string>
+    <string name="title_activity_decenso">Decenso</string>
+</resources>
